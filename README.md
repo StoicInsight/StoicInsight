@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierre Gettant</h1>
 <h3 align="center">Passionate Front-end Developer,</h3>
 
-- 🌱 I’m currently learning **Python😎**
+- 🌱 I’m currently learning **JavaScript😎**
 
 - 💬 Ask me about **Anything, always willing to help!**
 
