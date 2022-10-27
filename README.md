@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python😎**
 
-- 📝 I regularly write articles on [https://medium.com/@pierregettant](https://medium.com/@pierregettant)
+- 📝 I write articles on [https://medium.com/@pierregettant](https://medium.com/@pierregettant)
 
 - 💬 Ask me about **Anything, always willing to help!**
 
