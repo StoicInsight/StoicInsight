@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Pierre!
-![](https://giphy.com/embed/Dh5q0sShxgp13DwrvG)
+![hippo](https://giphy.com/embed/Dh5q0sShxgp13DwrvG)
 
 Disciplined warrior⚔️ | Curious Learner⏳ |  Ambitious Software Engineer👾
 
