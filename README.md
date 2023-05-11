@@ -1,5 +1,5 @@
 
-![hippo](https://media.giphy.com/media/HyOOyynWxMxig/giphy.gif)
+![hippo](https://media.giphy.com/media/10bTCLE8GtHHS8/giphy.gif)
 
 
 Disciplined warrior⚔️ | Curious Learner⏳ |  Ambitious Software Engineer👾
