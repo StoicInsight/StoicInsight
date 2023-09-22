@@ -1,5 +1,6 @@
 
-![hippo](https://media.giphy.com/media/10bTCLE8GtHHS8/giphy.gif)
+![hippo](https://media.giphy.com/media/S2xlARdxtV8v0IFdhl/giphy.gif)
+
 
 Curious Learner⏳ |  Ambitious Software Engineer👾
 
